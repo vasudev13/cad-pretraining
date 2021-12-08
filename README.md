@@ -13,3 +13,7 @@
 **Downstream Dataset:** SNLI. 
 
 **Perturbation Strategy:** [Polyjuice](https://github.com/tongshuangwu/polyjuice). 
+
+Reference. 
+
+https://github.com/vasudev13/discharge-summary-albert/blob/main/albert_train.sbatch
